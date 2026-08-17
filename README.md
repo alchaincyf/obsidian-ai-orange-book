@@ -85,6 +85,13 @@ Karpathy 的核心论点：与其建 RAG 让 LLM 检索你的笔记，不如让 
 | Polymarket 完全指南 | [polymarket-orange-book](https://github.com/alchaincyf/polymarket-orange-book) |
 | **Obsidian + Claude Code** | **本仓库** |
 
+## 📚 在线阅读（WorkBuddy）
+
+本书已同步到 WorkBuddy 资料库：每章一个网页，也可以直接把链接丢给你的 Agent 当上下文。
+
+https://www.workbuddy.cn/space/d/g5E78ejX962o
+
+全部橙皮书入口：https://www.workbuddy.cn/space/d/YcllWXknAUoMk6lFSWdfbI
 ## 许可
 
 本作品免费分享，用于学习交流。欢迎转载和引用，请注明出处。
