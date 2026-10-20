@@ -36,7 +36,9 @@ No complex MCP setup needed. One CLAUDE.md + one index.md per folder is enough f
 | Format | Link |
 |--------|------|
 | PDF (English) | [Obsidian-AI-The-Complete-Guide-v1.0.0.pdf](Obsidian-AI-The-Complete-Guide-v1.0.0.pdf) |
-| PDF (Chinese) | [Obsidian-AI-v1.0.0.pdf](Obsidian-AI-v1.0.0.pdf) |
+| PDF (Chinese, v261020) | [Obsidian-AI-v261020.pdf](Obsidian-AI-v261020.pdf) |
+
+> The Chinese edition was updated on Oct 20, 2026 (Obsidian 1.14.4, Claude Code 2.1.287, ~30 new screenshots). This English edition is still v1.0.0 (April 2026).
 
 > 💡 Download the PDF for the best reading experience. GitHub's online preview may not render properly.
 

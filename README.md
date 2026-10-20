@@ -1,6 +1,8 @@
 # Obsidian + Claude Code：用AI重建你的第二大脑
 
 > 从零搭建AI驱动的个人知识管理系统。免费、开源、持续更新。
+>
+> 中文版最新：**v261020**（2026-10-20），基于 Obsidian 1.14.4、Claude Code 2.1.287 实测更新，新增约 30 张实测截图。
 
 <p align="center">
   <img src="assets/hero.gif" alt="obsidian-ai-orange-book Hero Animation" />
@@ -27,7 +29,7 @@
 
 **洞察1：Markdown 是 AI Agent 的原生接口**
 
-Manus（被 Meta 20亿美元收购）、OpenClaw（35.5万+ stars）、Claude Code 都选了 Markdown 文件存储 AI 的记忆，不是向量数据库。Obsidian vault 就是一堆 Markdown 文件。
+Manus、OpenClaw、Claude Code 都选了 Markdown 文件存储 AI 的记忆，不是向量数据库。Obsidian vault 就是一堆 Markdown 文件。
 
 **洞察2：LLM 应该是「编译器」而非「检索器」**
 
@@ -41,8 +43,10 @@ Karpathy 的核心论点：与其建 RAG 让 LLM 检索你的笔记，不如让 
 
 | 格式 | 链接 |
 |------|------|
-| PDF（中文） | [Obsidian-AI-v1.0.0.pdf](Obsidian-AI-v1.0.0.pdf) |
-| PDF (English) | [Obsidian-AI-The-Complete-Guide-v1.0.0.pdf](Obsidian-AI-The-Complete-Guide-v1.0.0.pdf) |
+| PDF（中文，v261020） | [Obsidian-AI-v261020.pdf](Obsidian-AI-v261020.pdf) |
+| PDF (English, v1.0.0) | [Obsidian-AI-The-Complete-Guide-v1.0.0.pdf](Obsidian-AI-The-Complete-Guide-v1.0.0.pdf) |
+
+> 英文版仍是 4 月的 v1.0.0，还没有跟进 10 月修订。
 
 > 💡 PDF 文件建议下载后阅读，体验更佳。GitHub 在线预览可能无法完整渲染。
 
@@ -84,6 +88,15 @@ Karpathy 的核心论点：与其建 RAG 让 LLM 检索你的笔记，不如让 
 | OpenClaw | [openclaw-orange-book](https://github.com/alchaincyf/openclaw-orange-book) |
 | Polymarket 完全指南 | [polymarket-orange-book](https://github.com/alchaincyf/polymarket-orange-book) |
 | **Obsidian + Claude Code** | **本仓库** |
+
+## 更新记录
+
+- **v261020（2026-10-20）**：基于 Obsidian 1.14.4、Claude Code 2.1.287 实测更新。新增约 30 张截图（设置、核心插件、属性、数据库 Bases 的表格和看板、图谱、CLI，Claude Code 的信任提示、权限确认、先审计后执行的整理过程、插件市场装 obsidian-skills、LLM Wiki 的 ingest/log/lint）；第 4 章重写，第 5 章新增数据库（Bases），第 6 章补齐 Karpathy 原文的三个动作，第 8、9 章更新插件与 Skills 现状。勘误集中写在前言「10月补记」。
+- **v1.0.0（2026-04-11）**：初版。
+
+## 关注花叔
+
+<p align="center"><img src="https://raw.githubusercontent.com/alchaincyf/alchaincyf/main/assets/follow.svg" width="720" alt="关注花叔：公众号「花叔」、B站「花叔v」、小红书「花叔」" /></p>
 
 ## 📚 在线阅读（WorkBuddy）
 
